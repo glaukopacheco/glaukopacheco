@@ -1,10 +1,4 @@
-# Olá, me chamo Glauko! 
-## Bem vindo ao meu perfil GitHub 👋
-
-- 🔭 Atualmente estou trabalhando em casa
-- 🌱 Atualmente estou aprendendo JavaScript
-- 😄 Pronomes: ele/dele
-
+# Olá, me chamo Glauko Pacheco! 
 
 <div align="center">
   <a href="https://github.com/glaukopacheco">
@@ -12,9 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaukopacheco&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
-  
-## Ferramentas e Tecnologias
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,4 +27,3 @@
   <a href="https://www.linkedin.com/in/glaukopacheco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/glaukopacheco/glaukopacheco/blob/output/github-contribution-grid-snake.svg)
